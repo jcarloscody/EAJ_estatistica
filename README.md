@@ -1,7 +1,7 @@
 # **PESQUISA DE ESTATÍSTICA**
 
 
-## **DESCRIPTIVE STATISTICS| Kaggle**
+## **DESCRIPTIVE STATISTICS | Kaggle**
 Segundo o Google, a Estatística é o “ramo da matemática que trata da coleta, da análise, da interpretação e da apresentação de massas de dados numéricos”. Então, podemos concluir que a estatística é capaz de analisar um levante de circunstância e problemas através de seus variados conceitos.
 
 **`Média:`**
